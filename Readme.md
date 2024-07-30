@@ -13,6 +13,8 @@ clone this repository and install the requirements via
    
 This should install all necessary packages for you. 
 
+#https://www.immobilienscout24.de/gewerbe-flaechen/de/berlin/berlin/spezialgewerbe-mieten/
+
 ## Simple scraping
 Let's assume you want to move to Berlin. You are searching for a flat with 2-3 rooms bigger than 60m^2 flat which should not be 
 more expensive than 1000 Euro. You must enter these requirements in Immoscout24 website and search. If you search for 
